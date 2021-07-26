@@ -1,9 +1,11 @@
 # HA-NR-Flows
 Sharing of smaller Home Assistant and Node-Red Flow used in my home automation applications.
 
+| [Frigate](#Frigate) | [Pre-requisites](#Pre) | [Installation](#Install) | [Credits](#Credits) |
+
 
 To share and writeup
-## Frigate flow
+## <a name="Frigate">Frigate flow </a>
 
 ## BlueIris flow
 
