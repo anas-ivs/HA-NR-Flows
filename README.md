@@ -1,22 +1,39 @@
 # HA-NR-Flows
 Sharing of smaller Home Assistant and Node-Red Flow used in my home automation applications.
 
-| [Frigate](#Frigate) | [Pre-requisites](#Pre) | [Installation](#Install) | [Credits](#Credits) |
+| [Pre-requisites](#Pre) | [Installation](#Install) |
 
+Applications: 
+| [Telegram](#Telegram) | [Frigate](#Frigate) | [Autogate](#Autogate) | [Blueiris](#Blueiris) | [Synology Telegram File Downloader](#Synology) | 
 
-To share and writeup
+Utilities:
+| [Washing Machine Automata](#washing-machine) | [Dryer Automata](#dryer) | [Coffee Cup Counter](#coffee-cups) |  [Power Monitoring](#Power_Monitoring}) | [Application of Counter](#Application_counter}) | [Data logging](#data_logging}) |
+
+Ad-Deen:
+| [Random Hadith](#Random_Hadith)| [Pre-solat Broadcast](#pre-solat-broadcast)
+
+## <a name="Telegram">Telegram in/out flow </a>
+
+## <a name="Autogate">Autogate </a>
+
 ## <a name="Frigate">Frigate flow </a>
 
-## BlueIris flow
+## <a name="Blueiris">BlueIris flow</a>
 
-## Telegram in/out flow
+## <a name="Synology">Synology Telegram file downloader </a>
 
-## Synology Telegram file downloader
+## <a name="washing-machine">Washing Machine Automata</a>
 
-## Random Hadith
+## <a name="dryer">Dryer Automata</a>
 
-## Power Monitoring
+## <a name="coffee-cups">Coffee Cup Counter</a>
 
-## Applicaiton of counter
+## <a name="Power_Monitoring">Power Monitoring </a>
 
-## Data Reporting
+## <a name="Application_counter">Application of counter </a>
+
+## <a name="Data_logging">Data Logging </a>
+
+## <a name="Random_Hadith">Random Hadith </a>
+
+## <a name="pre-solat-broadcast">Pre Solat Broadcast </a>
