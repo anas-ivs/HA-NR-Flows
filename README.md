@@ -67,6 +67,10 @@ Ad-Deen | [Random Hadith](#Random_Hadith)| [Pre-solat Broadcast](#pre-solat-broa
 
 - Refer [Telegram](#Pre) notes above on setting up bot, setting up in Node-Red and also [Flow Out](#Telegram) in mapping `To Telegram` nodes.
 - Require to install  `node-red-contrib-fs-ops` for file management.
+- To use - forward required files to bot and bot download receiver will run for received documents/video/picture/audio.
+- Second flow for file downloader will provide with bot commands 
+  - `/list` -listdown of files in `/downloads`
+  - `/organize` - moves mp4/mkv/srt/pdf to subdirectory as specified according to file extension types in function node `Array Set Path` 
 
 ### Bot downloader
 
