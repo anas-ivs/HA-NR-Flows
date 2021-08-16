@@ -59,7 +59,14 @@ Ad-Deen | [Random Hadith](#Random_Hadith)| [Pre-solat Broadcast](#pre-solat-broa
 
 ## <a name="Synology">Synology Telegram file downloader </a>
 
-- Require `node-red-contrib-fs-ops` for file management.
+- This is with Node-Red instance running in Synology NAS as Docker container.
+
+- Reference to `/downloads` in following nodes refers to  volume mapping setup in Node-Red container volumes as below. Ubah host path to your NAS directory settings.
+
+  ![Node Red Mapping](https://raw.githubusercontent.com/anas-ivs/HA-NR-Flows/main/images/noderedvolumemapping.PNG)
+
+- Refer [Telegram](#Pre) notes above on setting up bot, setting up in Node-Red and also [Flow Out](#Telegram) in mapping `To Telegram` nodes.
+- Require to install  `node-red-contrib-fs-ops` for file management.
 
 ### Bot downloader
 
